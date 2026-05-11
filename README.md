@@ -2,7 +2,7 @@
 **` Futura Desenvolvedora `**
 
 
-Olá, eu sou a Karoline! Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e descobrindo a cada dia como a tecnologia pode transformar ideias em soluções reais. Mais do que apenas linhas de código, o que me encanta é a lógica e o desafio constante de resolver problemas. No momento, estou focada em aprender:  Java e JavaScript. E construir minha base técnica. Adoro trocar experiências e estou sempre aberta a novas conexões e aprendizados na área!
+Olá, eu sou Karoline! Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e descobrindo a cada dia como a tecnologia pode transformar ideias em soluções reais. Mais do que apenas linhas de código, o que me encanta é a lógica e o desafio constante de resolver problemas. No momento, estou focada em aprender:  Java e JavaScript. E construir minha base técnica. Adoro trocar experiências e estou sempre aberta a novas conexões e aprendizados na área!
 
    ### 🤖 Linguagens e Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
